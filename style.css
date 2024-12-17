@@ -178,6 +178,7 @@ h2{
 }
 .main-page-image{
   background-color: #1c1f2b;
+  opacity: 90%;
   box-shadow: -20px 0 20px rgba(0, 0, 0, 0.2);
   padding: 30px;
   position: relative;
